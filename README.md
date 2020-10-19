@@ -18,8 +18,7 @@ Clone the repository to local machine for development and testing.
   
 git clone [`https://github.com/chintanmodi36/iqvia_assessment.git`](https://github.com/chintanmodi36/iqvia_assessment.git).
 
-
-##Commands to setup and run the application
+## Commands to setup and run the application
 ## Prerequisites
 Create virtual environment for Flask API 
 
