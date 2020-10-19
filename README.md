@@ -22,12 +22,12 @@ git clone [`https://github.com/chintanmodi36/iqvia_assessment.git`](https://gith
 ## Prerequisites
 Create virtual environment for Flask API 
 
-###Create and activate virtual environment
+### Create and activate virtual environment
 ```
 virtualenv -p python3 venv
 source venv/bin/activate
 ```
-###Docker
+### Docker
 ## Run command
 ```
 docker-compose up
